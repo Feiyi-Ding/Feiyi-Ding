@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feiyi-Ding
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Azure Databricks
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me: fd2475@columbia.edu
 
